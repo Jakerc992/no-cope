@@ -9,7 +9,7 @@ Install it and Claude stops softening the truth. Ask for feedback on anything â€
 ## Install
 
 ```bash
-npx skills add YOUR_GITHUB_USERNAME/no-cope
+npx skills add Jakerc992/no-cope
 ```
 
 That's it. Works with Claude Code, Cursor, Codex, Gemini CLI, and most other coding agents.
