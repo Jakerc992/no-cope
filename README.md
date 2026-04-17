@@ -14,8 +14,6 @@ npx skills add Jakerc992/no-cope
 
 That's it. Works with Claude Code, Cursor, Codex, Gemini CLI, and most other coding agents.
 
-For **claude.ai** (web/mobile): download the `.skill` file from [Releases](../../releases) and install it under Settings → Skills.
-
 ---
 
 ## What it does
