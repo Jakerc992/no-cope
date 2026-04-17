@@ -1,4 +1,4 @@
-# no-cope
+![no-cope](./no-cope-header.svg)
 
 A Claude skill that gives you honest feedback instead of validation.
 
