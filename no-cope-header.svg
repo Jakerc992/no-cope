@@ -1,0 +1,45 @@
+<svg width="100%" viewBox="0 0 680 160" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>no-cope</title>
+<desc>Chunky block text NO-COPE</desc>
+<style>.o { fill: #0a0a0a; }</style>
+
+<!-- N -->
+<rect class="o" x="28"  y="35" width="13" height="91"/>
+<rect class="o" x="67"  y="35" width="13" height="91"/>
+<rect class="o" x="41"  y="35" width="13" height="13"/>
+<rect class="o" x="54"  y="48" width="13" height="13"/>
+<rect class="o" x="54"  y="61" width="13" height="13"/>
+
+<!-- O -->
+<rect class="o" x="98"  y="35" width="56" height="13"/>
+<rect class="o" x="98"  y="113" width="56" height="13"/>
+<rect class="o" x="98"  y="48" width="13" height="65"/>
+<rect class="o" x="141" y="48" width="13" height="65"/>
+
+<!-- DASH -->
+<rect class="o" x="172" y="72" width="39" height="13"/>
+
+<!-- C -->
+<rect class="o" x="229" y="35" width="56" height="13"/>
+<rect class="o" x="229" y="113" width="56" height="13"/>
+<rect class="o" x="229" y="48" width="13" height="65"/>
+
+<!-- O -->
+<rect class="o" x="303" y="35" width="56" height="13"/>
+<rect class="o" x="303" y="113" width="56" height="13"/>
+<rect class="o" x="303" y="48" width="13" height="65"/>
+<rect class="o" x="346" y="48" width="13" height="65"/>
+
+<!-- P -->
+<rect class="o" x="377" y="35" width="56" height="13"/>
+<rect class="o" x="377" y="74" width="43" height="13"/>
+<rect class="o" x="377" y="48" width="13" height="78"/>
+<rect class="o" x="420" y="48" width="13" height="26"/>
+
+<!-- E -->
+<rect class="o" x="451" y="35" width="56" height="13"/>
+<rect class="o" x="451" y="74" width="43" height="13"/>
+<rect class="o" x="451" y="113" width="56" height="13"/>
+<rect class="o" x="451" y="48" width="13" height="78"/>
+
+</svg>
